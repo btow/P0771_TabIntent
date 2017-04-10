@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">P0771_TabIntent</string>
+    <string name="text_activity_1">Это первое Activity</string>
+    <string name="text_activity_2">Это второе Activity</string>
+    <string name="tag1">tag1</string>
+    <string name="tag2">tag2</string>
+    <string name="title_tab_1">Вкладка 1</string>
+    <string name="title_tab_2">Вкладка 2</string>
+</resources>
